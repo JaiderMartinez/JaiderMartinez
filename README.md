@@ -74,7 +74,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaiderMartinez&repo=users-parking&theme=radical" alt="users-parking" style="width: 48%;" />
   </a>
   <a href="https://github.com/JaiderMartinez/parkings">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaiderMartinez&repo=parkings&theme=radical" alt="parkings" style="width: 4%;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaiderMartinez&repo=parkings&theme=radical" alt="parkings" style="width: 41%;" />
   </a>
 </div>
   
